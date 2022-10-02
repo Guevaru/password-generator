@@ -1,2 +1,2 @@
 This is a password generator code file
-there two different code file, each generating different password formats.
+there are two different code files, each generating different password formats.
